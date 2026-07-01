@@ -1,0 +1,23 @@
+{
+  "name": "nagaroyals-site",
+  "version": "1.0.0",
+  "description": "Naga Royals Fight Camp - Chiang Mai, Thailand",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theworldofguy-tech/Nagaroyals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theworldofguy-tech/Nagaroyals/issues"
+  },
+  "homepage": "https://github.com/theworldofguy-tech/Nagaroyals#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
